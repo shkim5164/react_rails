@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
-gem "react_on_rails", "11.1.4" # Update to the current version
+# gem "react_on_rails", "11.1.4" # Update to the current version
+gem 'react-rails'
 gem "webpacker", "~> 3" # Newer versions might be supported
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
